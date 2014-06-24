@@ -1,0 +1,7 @@
+Z:\git-project-2\homework\TreeViewer\TreeViewer\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+Z:\git-project-2\homework\TreeViewer\TreeViewer\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+Z:\git-project-2\homework\TreeViewer\TreeViewer\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+Z:\git-project-2\homework\TreeViewer\TreeViewer\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+Z:\git-project-2\homework\TreeViewer\TreeViewer\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+Z:\git-project-2\homework\TreeViewer\TreeViewer\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+Z:\git-project-2\homework\TreeViewer\TreeViewer\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
