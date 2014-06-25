@@ -1,0 +1,9 @@
+Z:\git-project-2\homework\TreeViewer\TreeViewer\WindowsFormsApplication2\bin\Release\WindowsFormsApplication2.exe.config
+Z:\git-project-2\homework\TreeViewer\TreeViewer\WindowsFormsApplication2\bin\Release\WindowsFormsApplication2.exe
+Z:\git-project-2\homework\TreeViewer\TreeViewer\WindowsFormsApplication2\bin\Release\WindowsFormsApplication2.pdb
+Z:\git-project-2\homework\TreeViewer\TreeViewer\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.Form1.resources
+Z:\git-project-2\homework\TreeViewer\TreeViewer\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.Properties.Resources.resources
+Z:\git-project-2\homework\TreeViewer\TreeViewer\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.csproj.GenerateResource.Cache
+Z:\git-project-2\homework\TreeViewer\TreeViewer\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.exe
+Z:\git-project-2\homework\TreeViewer\TreeViewer\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.pdb
+Z:\git-project-2\homework\TreeViewer\TreeViewer\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
